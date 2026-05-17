@@ -3,5 +3,13 @@
 ## Retrieve User Timeline Data
 
 ```http
-GET /insights/2.0/validation/timeline
+https://api.<companyName>/validation/<version>/timeline?viewer_id={value}&session_id={value}
+```
+
+```http
+https://api.<companyName>/validation/<version>/timeline?session_id={value}
+```
+
+```http
+https://api.<companyName>/validation/<version>/timeline?viewer_id={value}
 ```
