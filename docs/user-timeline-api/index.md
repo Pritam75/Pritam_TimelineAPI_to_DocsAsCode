@@ -11,3 +11,4 @@ The User Timeline API V2 validates of timeline data for monitoring and analyzing
 - [Response Format](./response-format.md)
 - [Examples](./examples/timeline-request.md)
 - [Response Codes](./response-codes.md)
+- [Error Handling](./error-management.md)
