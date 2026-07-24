@@ -6,20 +6,20 @@ This repository contains a Docs-as-Code transformation of a sample Validation Us
 
 ```text
 docs/
-└── validation-timeline-api-v2/
-    ├── index.md
-    ├── overview.md
-    ├── endpoints.md
-    ├── authentication.md
-    ├── query-parameters.md
-    ├── response-format.md
+└── [user-timeline-api](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/tree/main/docs/user-timeline-api)/
+    ├── [index.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/index.md)
+    ├── [overview.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/overview.md)
+    ├── [endpoints.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/endpoints.md)
+    ├── [authentication.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/authentication.md)
+    ├── [query-parameters.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/query-parameters.md)
+    ├── [response-format.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/response-format.md)
     ├── examples/
-    │   ├── timeline-request.md
-    │   └── timeline-response.md
+    │   ├── [timeline-request.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/examples/timeline-request.md)
+    │   └── [timeline-response.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/examples/timeline-response.md)
     ├── schemas/
-    │   ├── timeline-schema.md
-    │   └── error-schema.md
-    └── response-codes.md
+    │   ├── [timeline-schema.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/schemas/timeline-schema.md)
+    │   └── [error-schema.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/schemas/error-schema.md)
+    └── [response-codes.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/response-codes.md)
 ```
 
 ## Purpose
