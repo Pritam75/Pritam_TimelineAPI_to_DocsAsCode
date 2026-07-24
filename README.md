@@ -4,7 +4,6 @@ This repository contains a Docs-as-Code transformation of a sample Validation Us
 
 ## Documentation Structure
 
-```text
 docs/
 └── [user-timeline-api](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/tree/main/docs/user-timeline-api)/
     ├── [index.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/index.md)
@@ -20,7 +19,7 @@ docs/
     │   ├── [timeline-schema.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/schemas/timeline-schema.md)
     │   └── [error-schema.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/schemas/error-schema.md)
     └── [response-codes.md](https://github.com/Pritam75/Pritam_TimelineAPI_to_DocsAsCode/blob/main/docs/user-timeline-api/response-codes.md)
-```
+
 
 ## Purpose
 
